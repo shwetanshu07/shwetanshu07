@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @shwetanshu07
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Shwetanshu Raj
 
 <!---
 shwetanshu07/shwetanshu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
